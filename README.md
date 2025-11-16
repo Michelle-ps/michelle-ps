@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/michelle-ps">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<!--
-**Michelle-ps/michelle-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, sou Michelle Polikarpow!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de desenvolvimento apaixonada por tecnologia e inovação. Atualmente focada em aprofundar meus conhecimentos em 🐍 <b>Python</b>, explorando o fascinante mundo da 🧠 <b>Inteligência Artificial</b> e desvendando as possibilidades da ⚙️ <b>Automação</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Busco criar soluções eficientes e aprender continuamente. Tenho uma base em 🌐 JavaScript e estou sempre aberta a novos desafios e colaborações.
+</p>
+
+---
+
+### 🚀 O que estou estudando e construindo:
+
+-   **Python:** Fortalecendo minhas habilidades em lógica de programação, estruturas de dados e desenvolvimento back-end.
+-   **Inteligência Artificial:** Explorando Machine Learning, Deep Learning e processamento de dados para construir sistemas inteligentes.
+-   **Automação:** Desenvolvendo scripts para otimizar tarefas e processos, tornando o trabalho mais eficiente.
+-   **JavaScript (Básico):** Fundamentos de desenvolvimento web, interatividade e construção de interfaces.
+
+---
+
+### ✨ Meus Interesses:
+
+-   Desenvolvimento de APIs com Python.
+-   Análise e visualização de dados.
+-   Projetos de Machine Learning (visão computacional, processamento de linguagem natural).
+-   Automação de tarefas repetitivas.
+-   Open Source e colaboração.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que Uso/Estudo:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=vue&hide_border=true" alt="Linguagens Mais Usadas"/>
+</p>
+
+---
+
+### 📫 Conecte-se Comigo!
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL@EXEMPLO.COM">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
