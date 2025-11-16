@@ -2,7 +2,7 @@
   <a href="https://github.com/michelle-ps">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="(https://www.linkedin.com/in/michellepolikarpow)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -31,7 +31,6 @@
 ### ✨ Meus Interesses:
 
 -   Desenvolvimento de APIs com Python.
--   Análise e visualização de dados.
 -   Projetos de Machine Learning (visão computacional, processamento de linguagem natural).
 -   Automação de tarefas repetitivas.
 -   Open Source e colaboração.
@@ -54,22 +53,3 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=vue&hide_border=true" alt="Linguagens Mais Usadas"/>
-</p>
-
----
-
-### 📫 Conecte-se Comigo!
-
-<p align="center">
-  <a href="mailto:SEU_EMAIL@EXEMPLO.COM">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
