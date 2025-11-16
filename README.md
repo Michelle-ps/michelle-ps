@@ -31,6 +31,7 @@
 ### ✨ Meus Interesses:
 
 -   Desenvolvimento de APIs com Python.
+-   Prompt Engineering
 -   Projetos de Machine Learning (visão computacional, processamento de linguagem natural).
 -   Automação de tarefas repetitivas.
 -   Open Source e colaboração.
